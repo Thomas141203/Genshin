@@ -567,7 +567,6 @@ document.getElementById("prevBtn").addEventListener("click", () => {
     if(selectionner === 0){
         selectionner = persos.length-1;
         scrollPosition = -scrollPosition - (144 * persos.length) + 144*6;
-        console.log(scrollPosition);
         characterSwiperList.style.transitionDuration = "300ms";
         characterSwiperList.style.transform = `translate3d(${scrollPosition}px, 0, 0)`;
         showCharacter(ids[selectionner]);
@@ -584,7 +583,6 @@ document.getElementById("nextBtn").addEventListener("click", () => {
     if(selectionner === persos.length-1){
         selectionner = 0;
         scrollPosition = -scrollPosition - (144 * persos.length) + 144*6;
-        console.log(scrollPosition);
         characterSwiperList.style.transitionDuration = "300ms";
         characterSwiperList.style.transform = `translate3d(${scrollPosition}px, 0, 0)`;
         showCharacter(ids[selectionner]);
