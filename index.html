@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" />
         <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="tableau.css">
         <!-- <script type="application/json" src="stats.json"></script> -->
     </head>
 
@@ -141,7 +142,7 @@
                 </div>
             </div>
             
-            <div class="characterSwiperContainer">
+            <div class="characterSwiperContainer" id="characterSwiperContainer">
                 <div class="characterSwiper" id="characterSwiper">
                     <ul class="characterSwiperList" id="characterSwiperList">
                         <li id="albedo" class="active">
@@ -594,12 +595,6 @@
         </div>
 
         <script src="script.js"></script>
-        <script>
-            document.getElementById("tableau").addEventListener("click", () => {
-                const tableau = document.getElementById("tableau");
-                tableau.innerHTML = "";
-            });
-        </script>
         <script src="tableau.js"></script>
         <!-- <script>
             document.addEventListener('contextmenu', function(e){

@@ -1,0 +1,86 @@
+.ctn{
+    background-color: #202525;
+    margin: 10px auto 0;
+    max-width: 1280px;
+    min-height: 100vh;
+    max-height: 200vh;
+    padding: 20px 0;
+}
+
+table {
+    width: 1280px;
+    border: 3px solid #6495ed;
+    border-collapse: collapse;
+    margin: auto;
+    color: #000000;
+}
+  
+thead{
+    background-color: #d0e3fa;
+    background-image: url(sky.jpg);
+    border: 1px solid #6495ed;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+tbody {
+    background-color: #ffffff;
+    border: 1px solid #6495ed;
+}
+
+th {
+    font-family: monospace;
+    font-weight: normal;
+    border: 1px dotted #6495ed;
+    padding: 5px;
+    background-color: #eff6ff;
+}
+
+td{
+    font-size: 80%;
+    border: 1px solid #6495ed;
+    padding: 5px;
+    height: 50px;
+}
+
+.numberOfCharacters{
+    width: 50px;
+    text-align: center;
+}
+
+.iconOfCharacters{
+    width: 150px;
+    text-align: center;
+}
+
+.imageCharacters{
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+.iconOfCharacters span{
+    float: left;
+    width: 50%;
+}
+
+.iconOfCharacters:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.pv, .atq, .def, .em, .tc, .dc, .re{
+    width: 50px;
+    text-align: center;
+}
+
+.bonus{
+    width: 150px;
+    text-align: center;
+}
+
+#Nom:hover, #PV:hover, #ATQ:hover, #DEF:hover, #EM:hover, #TC:hover, #DC:hover, #RE:hover, #Bonus:hover{
+    background-color: rgba(0,0,0,.5);
+    color: red;
+}
