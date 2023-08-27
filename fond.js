@@ -1,2 +1,2 @@
 const container = document.getElementById("container");
-container.style.background = "url(media/mondstadt.webp) no-repeat center";
+container.style.background = "url(media/Mondstadt.webp) no-repeat center";
