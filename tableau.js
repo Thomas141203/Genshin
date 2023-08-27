@@ -1,7 +1,9 @@
 document.getElementById("tableau").addEventListener("click", () => {
     const tableau = document.getElementById("container");
     tableau.innerHTML = "";
-    
+    tableau.style.margin = '75px auto 0';
+    tableau.style.padding = '20px 0';
+
     const url = "./stats.json";
     const personnages = [];
 
