@@ -1,0 +1,954 @@
+[
+    {
+        "name": "Arataki Itto",
+        "element": "geo",
+        "region": "Inazuma",
+        "own": true,
+        "level": 90,
+        "pv": 15059,
+        "atq": 843,
+        "def": 2031,
+        "em": 42,
+        "re": 114.2,
+        "tc": 27.3,
+        "dc": 57,
+        "bonus": "x",
+        "skills": {
+            "1": 8,
+            "2": 6,
+            "3": 8
+        }
+    },{
+        "name": "Zhongli",
+        "element": "geo",
+        "region": "Liyue",
+        "own": true,
+        "level": 90,
+        "pv": 25235,
+        "atq": 1838,
+        "def": 889,
+        "em": 182,
+        "re": 122,
+        "tc": 34.6,
+        "dc": 181.9,
+        "bonus": "Bonus de DGT Géo  : 43,8%",
+        "skills": {
+            "1": 5,
+            "2": 8,
+            "3": 10
+        }
+    },{
+        "name": "Nomade",
+        "element": "anemo",
+        "region": "Sumeru",
+        "own": true,
+        "level": 90,
+        "pv": 16900,
+        "atq": 1777,
+        "def": 877,
+        "em": 103,
+        "re": 110.4,
+        "tc": 39.8,
+        "dc": 226.4,
+        "bonus": "Bonus de DGT Anémo : 61,6%",
+        "skills": {
+            "1": 9,
+            "2": 9,
+            "3": 9
+        }
+    },{
+        "name": "Venti",
+        "element": "anemo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 90,
+        "pv": 17084,
+        "atq": 1130,
+        "def": 824,
+        "em": 168,
+        "re": 137.2,
+        "tc": 18.6,
+        "dc": 57,
+        "bonus": "x",
+        "skills": {
+            "1": 5,
+            "2": 7,
+            "3": 6
+        }
+    },{
+        "name": "Eula",
+        "element": "cryo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 90,
+        "pv": 22500,
+        "atq": 2247,
+        "def": 795,
+        "em": 86,
+        "re": 118.1,
+        "tc": 62.5,
+        "dc": 184,
+        "bonus": "Bonus de DGT Physique : 83,3%",
+        "skills": {
+            "1": 10,
+            "2": 10,
+            "3": 10
+        }
+    },{
+        "name": "Qiqi",
+        "element": "cryo",
+        "region": "Liyue",
+        "own": true,
+        "level": 90,
+        "pv": 25047,
+        "atq": 1473,
+        "def": 1155,
+        "em": 142,
+        "re": 122.7,
+        "tc": 19,
+        "dc": 120,
+        "bonus": "Bonus de soins : 37,2%",
+        "skills": {
+            "1": 8,
+            "2": 7,
+            "3": 7
+        }
+    },{
+        "name": "Keqing",
+        "element": "electro",
+        "region": "Liyue",
+        "own": true,
+        "level": 90,
+        "pv": 20509,
+        "atq": 2078,
+        "def": 1157,
+        "em": 124,
+        "re": 100,
+        "tc": 24.4,
+        "dc": 212,
+        "bonus": "Bonus de DGT Électro : 61,6%",
+        "skills": {
+            "1": 5,
+            "2": 5,
+            "3": 7
+        }
+    },{
+        "name": "Lumine",
+        "element": "dendro",
+        "region": "Teyvat",
+        "own": true,
+        "level": 90,
+        "pv": 10875,
+        "atq": 390,
+        "def": 683,
+        "em": 0,
+        "re": 123.6,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 6,
+            "2": 6,
+            "3": 6
+        }
+    },{
+        "name": "Kamisato Ayato",
+        "element": "hydro",
+        "region": "Inazuma",
+        "own": true,
+        "level": 90,
+        "pv": 27394,
+        "atq": 2330,
+        "def": 843,
+        "em": 131,
+        "re": 119.4,
+        "tc": 31.1,
+        "dc": 142,
+        "bonus": "x",
+        "skills": {
+            "1": 2,
+            "2": 2,
+            "3": 2
+        }
+    },{
+        "name": "Yelan",
+        "element": "hydro",
+        "region": "Liyue",
+        "own": true,
+        "level": 90,
+        "pv": 31058,
+        "atq": 1608,
+        "def": 548,
+        "em": 96,
+        "re": 145.9,
+        "tc": 78.5,
+        "dc": 176.5,
+        "bonus": "Bonus de DGT Hydro : 46,6%",
+        "skills": {
+            "1": 6,
+            "2": 10,
+            "3": 9
+        }
+    },{
+        "name": "Fischl",
+        "element": "electro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 90,
+        "pv": 22461,
+        "atq": 1720,
+        "def": 1306,
+        "em": 138,
+        "re": 111.7,
+        "tc": 16.3,
+        "dc": 86.5,
+        "bonus": "x",
+        "skills": {
+            "1": 8,
+            "2": 10,
+            "3": 8
+        }
+    },{
+        "name": "Xingqiu",
+        "element": "hydro",
+        "region": "Liyue",
+        "own": true,
+        "level": 90,
+        "pv": 17120,
+        "atq": 1435,
+        "def": 1116,
+        "em": 37,
+        "re": 232.5,
+        "tc": 50.5,
+        "dc": 97.4,
+        "bonus": "Bonus de DGT Hydro : 20%",
+        "skills": {
+            "1": 7,
+            "2": 12,
+            "3": 10
+        }
+    },{
+        "name": "Bennett",
+        "element": "pyro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 90,
+        "pv": 35666,
+        "atq": 1308,
+        "def": 1092,
+        "em": 21,
+        "re": 219.1,
+        "tc": 33.1,
+        "dc": 63.2,
+        "bonus": "x",
+        "skills": {
+            "1": 4,
+            "2": 4,
+            "3": 6
+        }
+    },{
+        "name": "Xiangling",
+        "element": "pyro",
+        "region": "Liyue",
+        "own": true,
+        "level": 90,
+        "pv": 17298,
+        "atq": 970,
+        "def": 798,
+        "em": 115,
+        "re": 212.8,
+        "tc": 19.4,
+        "dc": 126.7,
+        "bonus": "Bonus de DGT Physique : 25",
+        "skills": {
+            "1": 6,
+            "2": 6,
+            "3": 10
+        }
+    },{
+        "name": "Amber",
+        "element": "pyro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 90,
+        "pv": 11520,
+        "atq": 892,
+        "def": 656,
+        "em": 23,
+        "re": 100,
+        "tc": 20.6,
+        "dc": 74.9,
+        "bonus": "x",
+        "skills": {
+            "1": 4,
+            "2": 2,
+            "3": 4
+        }
+    },{
+        "name": "Mona",
+        "element": "hydro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 80,
+        "pv": 10916,
+        "atq": 1052,
+        "def": 676,
+        "em": 0,
+        "re": 162.4,
+        "tc": 25.2,
+        "dc": 78.7,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Rosalia",
+        "element": "cryo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 80,
+        "pv": 10056,
+        "atq": 1474,
+        "def": 799,
+        "em": 23,
+        "re": 121.4,
+        "tc": 42.3,
+        "dc": 84.2,
+        "bonus": "Bonus de DGT Physique : 56,8%",
+        "skills": {
+            "1": 2,
+            "2": 2,
+            "3": 2
+        }
+    },{
+        "name": "Yoimiya",
+        "element": "pyro",
+        "region": "Inazuma",
+        "own": true,
+        "level": 70,
+        "pv": 18419,
+        "atq": 1748,
+        "def": 532,
+        "em": 40,
+        "re": 149.9,
+        "tc": 31.3,
+        "dc": 156.5,
+        "bonus": "x",
+        "skills": {
+            "1": 4,
+            "2": 4,
+            "3": 4
+        }
+    },{
+        "name": "Gorou",
+        "element": "geo",
+        "region": "Inazuma",
+        "own": true,
+        "level": 70,
+        "pv": 7824,
+        "atq": 258,
+        "def": 524,
+        "em": 0,
+        "re": 123.6,
+        "tc": 7.7,
+        "dc": 59.3,
+        "bonus": "Bonus de DGT Géo  : 12%",
+        "skills": {
+            "1": 1,
+            "2": 2,
+            "3": 1
+        }
+    },{
+        "name": "Collei",
+        "element": "dendro",
+        "region": "Sumeru",
+        "own": true,
+        "level": 70,
+        "pv": 7561,
+        "atq": 893,
+        "def": 464,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 1
+        }
+    },{
+        "name": "Tighnari",
+        "element": "dendro",
+        "region": "Sumeru",
+        "own": true,
+        "level": 60,
+        "pv": 7038,
+        "atq": 331,
+        "def": 409,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Dendro : 14,4%",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Ningguang",
+        "element": "geo",
+        "region": "Liyue",
+        "own": true,
+        "level": 60,
+        "pv": 6448,
+        "atq": 258,
+        "def": 378,
+        "em": 42,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Géo  : 12%",
+        "skills": {
+            "1": 2,
+            "2": 2,
+            "3": 6
+        }
+    },{
+        "name": "Sayu",
+        "element": "anemo",
+        "region": "Inazuma",
+        "own": true,
+        "level": 60,
+        "pv": 7809,
+        "atq": 279,
+        "def": 491,
+        "em": 48,
+        "re": 111.8,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Sucrose",
+        "element": "anemo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 60,
+        "pv": 9280,
+        "atq": 576,
+        "def": 563,
+        "em": 37,
+        "re": 105.2,
+        "tc": 8.9,
+        "dc": 50,
+        "bonus": "Bonus de DGT Anémo : 27%",
+        "skills": {
+            "1": 4,
+            "2": 7,
+            "3": 6
+        }
+    },{
+        "name": "Diona",
+        "element": "cryo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 60,
+        "pv": 6305,
+        "atq": 290,
+        "def": 396,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Cryo : 12%",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 4
+        }
+    },{
+        "name": "Kaeya",
+        "element": "cryo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 60,
+        "pv": 7666,
+        "atq": 297,
+        "def": 522,
+        "em": 0,
+        "re": 113.3,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Beidou",
+        "element": "electro",
+        "region": "Liyue",
+        "own": true,
+        "level": 60,
+        "pv": 8597,
+        "atq": 577,
+        "def": 427,
+        "em": 91,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Électro : 12%",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 1
+        }
+    },{
+        "name": "Barbara",
+        "element": "hydro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 60,
+        "pv": 7222,
+        "atq": 204,
+        "def": 441,
+        "em": 85,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Thomas",
+        "element": "pyro",
+        "region": "Inazuma",
+        "own": true,
+        "level": 60,
+        "pv": 6806,
+        "atq": 355,
+        "def": 495,
+        "em": 124,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Yanfei",
+        "element": "pyro",
+        "region": "Liyue",
+        "own": true,
+        "level": 60,
+        "pv": 6161,
+        "atq": 198,
+        "def": 687,
+        "em": 0,
+        "re": 100,
+        "tc": 8.4,
+        "dc": 50,
+        "bonus": "Bonus de DGT Pyro : 12%",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 1
+        }
+    },{
+        "name": "Xinyan",
+        "element": "pyro",
+        "region": "Liyue",
+        "own": true,
+        "level": 60,
+        "pv": 7379,
+        "atq": 305,
+        "def": 526,
+        "em": 64,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Noelle",
+        "element": "geo",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 50,
+        "pv": 7418,
+        "atq": 210,
+        "def": 455,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Faruzan",
+        "element": "anemo",
+        "region": "Sumeru",
+        "own": true,
+        "level": 50,
+        "pv": 5074,
+        "atq": 260,
+        "def": 333,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 1
+        }
+    },{
+        "name": "Layla",
+        "element": "cryo",
+        "region": "Sumeru",
+        "own": true,
+        "level": 50,
+        "pv": 6234,
+        "atq": 680,
+        "def": 347,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Physique : 34,5%",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 1
+        }
+    },{
+        "name": "Chongyun",
+        "element": "cryo",
+        "region": "Liyue",
+        "own": true,
+        "level": 50,
+        "pv": 5824,
+        "atq": 724,
+        "def": 344,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Physique : 34,5%",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Dori",
+        "element": "electro",
+        "region": "Sumeru",
+        "own": true,
+        "level": 50,
+        "pv": 6968,
+        "atq": 465,
+        "def": 384,
+        "em": 0,
+        "re": 150.5,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 4
+        }
+    },{
+        "name": "Kujou Sara",
+        "element": "electro",
+        "region": "Inazuma",
+        "own": true,
+        "level": 50,
+        "pv": 5074,
+        "atq": 215,
+        "def": 333,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Physique : 26,5%",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Razor",
+        "element": "electro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 50,
+        "pv": 6343,
+        "atq": 270,
+        "def": 398,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "Bonus de DGT Physique : 7,5%",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Lisa",
+        "element": "electro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 50,
+        "pv": 5074,
+        "atq": 163,
+        "def": 304,
+        "em": 24,
+        "re": 100,
+        "tc": 8.4,
+        "dc": 20,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Yaoyao",
+        "element": "dendro",
+        "region": "Sumeru",
+        "own": true,
+        "level": 50,
+        "pv": 6907,
+        "atq": 609,
+        "def": 398,
+        "em": 0,
+        "re": 127.9,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Candace",
+        "element": "hydro",
+        "region": "Sumeru",
+        "own": true,
+        "level": 50,
+        "pv": 6112,
+        "atq": 573,
+        "def": 362,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Diluc",
+        "element": "pyro",
+        "region": "Mondstadt",
+        "own": true,
+        "level": 40,
+        "pv": 6049,
+        "atq": 244,
+        "def": 315,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Yun Jin",
+        "element": "geo",
+        "region": "Liyue",
+        "own": true,
+        "level": 40,
+        "pv": 4892,
+        "atq": 117,
+        "def": 306,
+        "em": 0,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 1,
+            "3": 1
+        }
+    },{
+        "name": "Kuki Shinobu",
+        "element": "electro",
+        "region": "Inazuma",
+        "own": true,
+        "level": 40,
+        "pv": 5118,
+        "atq": 293,
+        "def": 313,
+        "em": 93,
+        "re": 100,
+        "tc": 5,
+        "dc": 50,
+        "bonus": "x",
+        "skills": {
+            "1": 1,
+            "2": 4,
+            "3": 4
+        }
+    },{
+        "name": "Jean",
+        "element": "anemo",
+        "region": "Mondstadt",
+        "own": false
+    },{
+        "name": "Klee",
+        "element": "pyro",
+        "region": "Mondstadt",
+        "own": false
+    },{
+        "name": "Tartaglia",
+        "element": "hydro",
+        "region": "Liyue",
+        "own": false
+    },{
+        "name": "Albedo",
+        "element": "geo",
+        "region": "Mondstadt",
+        "own": false
+    },{
+        "name": "Ganyu",
+        "element": "cryo",
+        "region": "Liyue",
+        "own": false
+    },{
+        "name": "Xiao",
+        "element": "anemo",
+        "region": "Liyue",
+        "own": false
+    },{
+        "name": "Hu Tao",
+        "element": "pyro",
+        "region": "Liyue",
+        "own": false
+    },{
+        "name": "Kaedahara Kazuha",
+        "element": "anemo",
+        "region": "Inazuma",
+        "own": false
+    },{
+        "name": "Kamisato Ayaka",
+        "element": "cryo",
+        "region": "Inazuma",
+        "own": false
+    },{
+        "name": "Shogun Raiden",
+        "element": "electro",
+        "region": "Inazuma",
+        "own": false
+    },{
+        "name": "Sangonomiya Kokomi",
+        "element": "hydro",
+        "region": "Inazuma",
+        "own": false
+    },{
+        "name": "Shenhe",
+        "element": "cryo",
+        "region": "Liyue",
+        "own": false
+    },{
+        "name": "Yae Miko",
+        "element": "electro",
+        "region": "Inazuma",
+        "own": false
+    },{
+        "name": "Shikanoin Heizou",
+        "element": "anemo",
+        "region": "Inazuma",
+        "own": false
+    },{
+        "name": "Cyno",
+        "element": "electro",
+        "region": "Sumeru",
+        "own": false
+    },{
+        "name": "Nilou",
+        "element": "hydro",
+        "region": "Sumeru",
+        "own": false
+    },{
+        "name": "Nahida",
+        "element": "dendro",
+        "region": "Sumeru",
+        "own": false
+    },{
+        "name": "Alhaitham",
+        "element": "dendro",
+        "region": "Sumeru",
+        "own": false
+    },{
+        "name": "Dehya",
+        "element": "pyro",
+        "region": "Sumeru",
+        "own": false
+    },{
+        "name": "Mika",
+        "element": "cryo",
+        "region": "Mondstadt",
+        "own": false
+    },{
+        "name": "Kaveh",
+        "element": "dendro",
+        "region": "Sumeru",
+        "own": false
+    },{
+        "name": "Baizhu",
+        "element": "dendro",
+        "region": "Liyue",
+        "own": false
+    },{
+        "name": "Kirara",
+        "element": "dendro",
+        "region": "Inazuma",
+        "own": false
+    }
+]
